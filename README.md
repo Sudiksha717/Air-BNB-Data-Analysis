@@ -1,1 +1,2 @@
-# Air-BNB-Data-Analysis
+# Air-BNB-Data-Analysis 
+This project involves data cleaning, analysis, and visualization of an Airbnb dataset to uncover key insights. It includes handling missing values, correcting data types, and exploring variables like price, room type, and neighborhood distribution. Visualizations such as histograms, count plots, and box plots help illustrate pricing trends and listing patterns. Temporal analysis of reviews offers additional understanding of customer engagement over time.
